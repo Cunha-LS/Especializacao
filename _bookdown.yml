@@ -1,0 +1,6 @@
+output_dir: "doc"
+book_filename: "Especializacao"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
